@@ -8,3 +8,5 @@
 [Ejercicio 1.1](https://github.com/SeleneRdzG/FCFM/blob/master/Regresion.ipynb)
 
 [Ejercicio 1.2](https://github.com/SeleneRdzG/FCFM/blob/master/A%20priori.ipynb)
+
+[Mapa mental II](https://github.com/SeleneRdzG/FCFM/blob/master/MapaMental_2_%7B1834309%7D.pdf)
