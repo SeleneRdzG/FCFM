@@ -16,6 +16,6 @@
 
 ## Fase II
 
-[Ejercicios de bases de datos]
+[Ejercicios de bases de datos](https://github.com/SeleneRdzG/FCFM/blob/master/Base%20de%20datos.pdf)
 
 [Ejercicios prácticos de Python]
