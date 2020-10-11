@@ -12,3 +12,10 @@
 [Ejercicio 1.2](https://github.com/SeleneRdzG/FCFM/blob/master/A%20priori.ipynb)
 
 [Resumenes](https://github.com/SeleneRdzG/FCFM/blob/master/Resumenes_%7B1834309%7D.pdf)
+
+
+##Fase II
+
+[Ejercicios de bases de datos]
+
+[Ejercicios prácticos de Python]
