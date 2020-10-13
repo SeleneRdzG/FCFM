@@ -18,4 +18,4 @@
 
 [Ejercicios de bases de datos](https://github.com/SeleneRdzG/FCFM/blob/master/AnalisisBD_1834309.pdf)
 
-[Ejercicios prácticos de Python](https://github.com/SeleneRdzG/FCFM/blob/master/Ejercicios%20python.ipynb)
+[Ejercicios prácticos de Python](https://github.com/SeleneRdzG/FCFM/blob/master/PythonBasico_1834309.ipynb)
