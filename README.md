@@ -19,3 +19,5 @@
 [Ejercicios de bases de datos](https://github.com/SeleneRdzG/FCFM/blob/master/AnalisisBD_1834309.pdf)
 
 [Ejercicios prácticos de Python](https://github.com/SeleneRdzG/FCFM/blob/master/PythonBasico_1834309.ipynb)
+
+[Avance I Proyecto integrador](https://github.com/Orlanndo98/Mineria_de_datos/blob/master/Avance1-PIA_Equipo%204_012.pdf)
