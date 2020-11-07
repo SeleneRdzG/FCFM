@@ -21,3 +21,5 @@
 [Ejercicios prácticos de Python](https://github.com/SeleneRdzG/FCFM/blob/master/PythonBasico_1834309.ipynb)
 
 [Avance I Proyecto integrador](https://github.com/Orlanndo98/Mineria_de_datos/blob/master/Avance1-PIA_Equipo%204_012.pdf)
+
+[Ejercicios de Python](https://github.com/SeleneRdzG/FCFM/blob/master/Ejercicios%20Python%20Mineria%20de%20Datos.ipynb)
